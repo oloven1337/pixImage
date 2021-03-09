@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.container {
+  margin: 10px auto;
+  max-width: 800px;
+}
+
+.search {
+  display: block;
+  margin: 0 auto;
+}
+
+.search-input {
+  margin: 0 auto;
+  width: 400px;
+  height: 24px;
+}
+
+.cards_item {
+  height: 250px;
+  width: 250px;
+}
+/*# sourceMappingURL=main.css.map */
